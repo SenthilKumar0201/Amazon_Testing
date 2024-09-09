@@ -12,7 +12,7 @@ public void Fib()
 		a=b;
 		b=c;
 		//c=a+b;
-		System.out.println("My Fibnoci is" + ":" + c);
+		System.out.println("My Fibnocci is" + ":" + c);
 		c=a+b;
 		}
 }
